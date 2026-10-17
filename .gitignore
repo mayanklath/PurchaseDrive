@@ -1,0 +1,11 @@
+# secrets - never commit
+.streamlit/secrets.toml
+.env
+# python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+# backups and local copies of bills
+*.zip
+backups/

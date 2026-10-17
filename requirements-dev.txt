@@ -1,0 +1,4 @@
+# Extra tools for testing (install with:  pip install -r requirements-dev.txt)
+-r requirements.txt
+pytest>=8
+reportlab>=4
